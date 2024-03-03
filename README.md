@@ -11,3 +11,5 @@ This repo is based on the TensorFlow Developer certification training with Danie
 5. NLP Fundamentals - A fundamental training on how to build models with capabilities to understand unstructured text.
 6. SkimLit
 7. Time Series Fundamentals
+
+test
