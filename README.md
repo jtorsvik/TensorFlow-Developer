@@ -1,7 +1,7 @@
 # TensorFlow Developer
 This repo is based on the TensorFlow Developer certification training with Daniel Bourke. The training is made to teach developers how to use the TensorFlow library package to build Deep Learning machine learning models with applications within structured data prediction, computer vision and natural language processing.
  
-The repo contains:
+## The repo contains
 1. Introduction to TensorFlow - An introduction to how tensors work and how to process them.
 2. Regression and Classification with Neural Networks - A comprehensive training to use neural networks to make predictions of structured datasets.
 3. Computer Vision with CNNs - A comprehensive training to use CNNs to classify image contents.
